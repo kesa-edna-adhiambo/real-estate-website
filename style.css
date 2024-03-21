@@ -1,0 +1,228 @@
+#google{
+    margin:  70px;
+    
+}
+
+#nav-bar1{
+    display: flex;
+    gap: 25px;
+    justify-content: center;
+    margin: 70px;
+    font-size: large;
+}
+
+#navbar{
+    display: flex;
+    gap: 200px;
+}
+
+#nav-bar2{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 1500px;
+    margin: 70px;
+    gap: 40px;
+}
+
+button{
+    background-color: aquamarine;
+    border-radius: 20px;
+    width: 200px;
+}
+
+#container1{
+    display: block;
+    margin-left: 600px;
+}
+
+#cont-ainer1{
+    margin-left: 110px;
+}
+
+#cont{
+    margin-left: 70px;
+}
+
+#navbar2{
+    display: flex;
+    gap: 40px;
+    margin-left: 650px;
+}
+
+#cont2{
+    display: flex;
+}
+
+#cont3{
+    margin-left: 20px;
+    
+}
+
+#container2{
+    margin-left: 150px;
+    display: flex;
+}
+
+#cont4{
+    display: flex;
+}
+
+#cont-B{
+   margin-left: 300px;
+}
+
+#co-2{
+   margin-left: 150px; 
+}
+
+#co-3{
+    margin-left: 250px;
+}
+
+#cont-C{
+    margin-left: 500px;
+}
+
+#container3{
+    margin-left: 700px;
+}
+
+#C4{
+    margin-left: 100px;
+}
+
+#First{
+    margin-left: 100px;
+
+}
+
+#first-A{
+    margin-left: 250px;
+}
+
+#firstb{
+    margin-left: 135px;
+}
+
+#firstc{
+    margin-left: 230px;
+}
+
+#firstd{
+    margin-left: 210px;
+}
+
+#container4{
+    display: flex;
+}
+
+#second{
+    margin-left: 300px;
+}
+
+#sec-A{
+    margin-left: 250px;
+}
+
+#sec-b{
+    margin-left: 180px;
+
+}
+
+#sec-c{
+    margin-left: 200px;
+}
+
+#sec-d{
+    margin-left: 250px;
+}
+
+#con5{
+    display: flex;
+
+}
+
+#all{
+    margin-left: 100px;
+}
+
+#container6{
+    display: flex;
+    justify-content: space-between;
+}
+
+#container7{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+#CC3{
+    display: flex;
+    margin-top: 300px;
+    margin-right: 300px;
+    gap: 50px;
+
+}
+
+#CC2{
+    display: block;
+    margin-bottom: 350px;
+
+}
+
+#paragraph{
+    margin-top: 4px;
+}
+
+#container8{
+    margin-left: 700px;
+}
+
+#container9{
+    display: flex;
+    justify-content: space-between;
+}
+
+#container10{
+    display: flex;
+    justify-content: space-between;
+}
+
+#container12{
+    margin-left: 700px;
+}
+
+#container13{
+    margin-left: 600px;
+}
+
+#container14{
+    display: flex;
+    gap: 150px;
+    margin-left: 200px;
+}
+
+#c10{
+    display: flex;
+}
+
+#c11{
+    display: flex;
+}
+
+#container15{
+    display: flex;
+    gap: 100px;
+    margin-left: 400px;
+}
+
+#c15{
+    display: flex;
+    gap: 20px;
+}
+
+#c16{
+    display: flex;
+    gap: 50px;
+}
