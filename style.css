@@ -1,3 +1,7 @@
+body{
+    background-color: antiquewhite;
+}
+
 #google{
     margin:  70px;
     
@@ -225,4 +229,45 @@ button{
 #c16{
     display: flex;
     gap: 50px;
+}
+
+@media only screen  and (min-width: 375px) and (max-width:500px){
+    body{
+        background-color: white;
+        display: block;
+        
+    }
+    #nav-bar1{
+        display: block;
+        font-size: small;
+        
+    }
+
+    #container1{
+        display: block;
+        font-size: small;
+    }
+    
+    #navbar2{
+        display: block;
+        font-size: small;
+    
+    }
+
+    #cont-ainer1{
+         font-size: small;
+    }
+
+    #cont{
+        font-size: small;
+
+    }
+
+    #container9{
+       display: block;
+    }
+
+
+
+
 }
